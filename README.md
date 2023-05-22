@@ -14,14 +14,15 @@ Built in both Angular, and Swift :computer:
 - Database: local storage, Alamofire (iOS networking library)
 - Deployment: Google Cloud Platform
 
-## Features
-- **Concert Search:** Search for concerts by artist, venue, or location.
-- **Filter and Sort:** Refine search results based on genre, date, price, and more.
-- **Favorites:** Save your favorite concerts for quick access and receive notifications.
-- **Ticket Booking:** Seamlessly book tickets through our integrated ticketing partners.
-- **Event Reminders:** Set reminders for upcoming concerts to never miss a show.
-- **User Reviews:** Share your concert experiences and read reviews from other music fans.
-- **Social Sharing:** Easily share concert details with friends on social media platforms.
+## Features :page_with_curl:
+- **Concert Search:** Search for concerts by artist, genre, and location
+- **Autocomplete:** Use our autocomplete search feature to look for various events across the country.
+- **Filter and Sort:** Refine search results based on date, genre and venue.
+- **Favorites:** Save your favorite concerts for quick access and also remove it if you like.
+- **Ticket Booking:** Seamlessly book tickets through our integrated ticketing partner - Ticketmaster
+- **Venue Details:** Get a google map to your venue, open hours, address, and contact number at your fingertips.
+- **Artist Details:** Take a look at all your performing artists, or sports players.
+- **Spotify statistics:** Track the popularity, followers, and listen to your artists music on spotify through our website/ app.
 
 ## Demo Video [iOS App]
 [![Find My Concert app Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
