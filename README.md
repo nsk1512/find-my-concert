@@ -9,10 +9,10 @@ With the Find-my-concert website or iOS app, your fingertips become the gateway 
 
 ## Tech Stack 
 Built in both Angular, and Swift :computer:
-- Front-end: ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white), ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![TypeScript](https://img.shields.io/badge/-TypeScript-FE7601?style=for-the-badge&logo=typescript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white),![SwiftUI](https://img.shields.io/badge/-swift-FE7601?style=for-the-badge&logo=swift)
-- Back-end: Node.js, Express.js, nginx
+- Front-end: ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white), ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![TypeScript](https://img.shields.io/badge/-TypeScript-FE7601?style=for-the-badge&logo=typescript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-swift-FE7601?style=for-the-badge&logo=swift)
+- Back-end:  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - Database: local storage, Alamofire (iOS networking library)
-- Deployment: Google Cloud Platform
+- Deployment: ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Features :page_with_curl:
 - **Concert Search:** Search for concerts by artist, genre, and location
