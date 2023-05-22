@@ -8,10 +8,10 @@ Find-my-concert is your ultimate companion for finding and exploring a world of 
 With the Find-my-concert website or iOS app, your fingertips become the gateway to a vibrant realm of concerts, sports matches, theatrical performances, and more. Seamlessly navigate through an extensive catalog of events, powered by cutting-edge location technology that tailors recommendations to your city, giving you an exclusive passport to the hottest happenings near you. :musical_note:
 
 ## Tech Stack 
-####(Built in both Angular, and Swift)
-- Front-end: Angular.js, HTML, CSS, SwiftUI
+Built in both Angular, and Swift :computer:
+- Front-end: Angular.js, HTML, CSS, Typescript, SwiftUI
 - Back-end: Node.js, Express.js, nginx
-- Database: local storage
+- Database: local storage, Alamofire (iOS networking library)
 - Deployment: Google Cloud Platform
 
 ## Features
