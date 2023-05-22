@@ -27,4 +27,4 @@ Built in both Angular, and Swift :computer:
 [![Find My Concert app Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
 Click the link above to watch the demo video for app or use the following link for the website access: 
-[Find My Concert Website]([https://angular-app-events.wl.r.appspot.com/search])
+[Find My Concert Website](https://angular-app-events.wl.r.appspot.com/search)
