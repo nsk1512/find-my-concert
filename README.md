@@ -1,13 +1,17 @@
 # Find-My-Concert :date:
 
 ## Description
-Find My Concert is an app that helps music enthusiasts discover concerts and events happening in their area. With a user-friendly interface and powerful search capabilities, finding and attending your favorite live performances has never been easier.
+Discover, Experience, and Never Miss a Beat! :speaker:
 
-## Tech Stack
-- Front-end: React.js, CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Deployment: Heroku
+Find-my-concert is your ultimate companion for finding and exploring a world of live events. Whether you're a music aficionado, sports fanatic, or theater enthusiast, this app is your ticket to the most thrilling and unforgettable experiences happening nationwide.
+
+With Find-my-concert, your fingertips become the gateway to a vibrant realm of concerts, sports matches, theatrical performances, and more. Seamlessly navigate through an extensive catalog of events, powered by cutting-edge location technology that tailors recommendations to your city, giving you an exclusive passport to the hottest happenings near you. :musical_note:
+
+## Tech Stack (Built in both angular, and swift)
+- Front-end: Angular.js, HTML, CSS, SwiftUI
+- Back-end: Node.js, Express.js, nginx
+- Database: local storage
+- Deployment: Google Cloud Platform
 
 ## Features
 - **Concert Search:** Search for concerts by artist, venue, or location.
