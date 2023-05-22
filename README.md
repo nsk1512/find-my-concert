@@ -23,7 +23,8 @@ Built in both Angular, and Swift :computer:
 - **User Reviews:** Share your concert experiences and read reviews from other music fans.
 - **Social Sharing:** Easily share concert details with friends on social media platforms.
 
-## Demo Video
+## Demo Video [iOS App]
 [![Find My Concert Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
-Click the image above to watch the demo video or use the following link: [Find My Concert Demo](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+Click the link above to watch the demo video for app or use the following link for the website access: 
+[Find My Concert Demo](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
