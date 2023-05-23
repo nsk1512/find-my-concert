@@ -25,7 +25,7 @@ Built in both Angular, and Swift :computer:
 - **Spotify statistics:** Track the popularity, followers, and listen to your artists music on spotify through our website/ app.
 
 ## Demo Video [iOS App]
-[![Find My Concert app Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Find My Concert app Demo](https://drive.google.com/file/d/13G9PY8fi5-VIeK_W8R_YzQI-fmO7vZto/view?usp=share_link)
 
 Click the link above to watch the demo video for app or use the following link for the website access: 
 
