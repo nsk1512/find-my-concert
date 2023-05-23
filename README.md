@@ -26,6 +26,7 @@ Built in both Angular, and Swift :computer:
 
 ## Demo Video [iOS App]
 
+https://github.com/nsk1512/find-my-concert/assets/65679261/dca2efad-5a30-47dc-8433-6faf5e1a37aa
 
 Click the link above to watch the demo video for app or use the following link for the website access: 
 
