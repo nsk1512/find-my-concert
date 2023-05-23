@@ -26,6 +26,7 @@ Built in both Angular, and Swift :computer:
 
 ## Demo Video [iOS App]
 [![Find My Concert app Demo](https://drive.google.com/file/d/13G9PY8fi5-VIeK_W8R_YzQI-fmO7vZto/view?usp=share_link)
+[![Alternate Text]({image-url})]({https://drive.google.com/file/d/13G9PY8fi5-VIeK_W8R_YzQI-fmO7vZto/view?usp=share_link} "Link Title")
 
 Click the link above to watch the demo video for app or use the following link for the website access: 
 
